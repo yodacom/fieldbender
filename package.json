@@ -1,7 +1,7 @@
 {
-  "name": "begin-app",
-  "version": "0.0.0",
-  "description": "Basic Begin personal website",
+  "name": "Fieldbender",
+  "version": "0.0.1",
+  "description": "Discover Yourself and Your own personal power",
   "scripts": {
     "start": "cross-env NODE_ENV=testing npx sandbox"
   },
